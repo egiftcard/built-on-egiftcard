@@ -34,11 +34,11 @@ export const Hero: FC = () => {
               md: "left",
             }}
           >
-            Built on thirdweb
+            Built on egiftcard
           </Heading>
 
           <Text fontSize="24px" as="h2">
-            A collection of projects built on thirdweb
+            A collection of projects built on egiftcard
           </Text>
           <Flex gap={4} flexDir={{ base: "column", md: "row" }}>
             <NextLink href="/#projects">
@@ -55,7 +55,7 @@ export const Hero: FC = () => {
               </Button>
             </NextLink>
 
-            <Link isExternal href="https://thirdweb.com">
+            <Link isExternal href="https://egiftcard.cc">
               <Button
                 background="rgba(255, 255, 255, 0.08)"
                 border="1px solid rgba(255, 255, 255, 0.2)"

@@ -30,7 +30,7 @@ export const Nav: React.FC = () => {
         <Logo color="#fff" forceShowWordMark />
         <Flex gap={6} align="center">
           <Link>Submit a project</Link>
-          <Link href="https://twitter.com/thirdweb" isExternal>
+          <Link href="https://twitter.com/egiftcard" isExternal>
             <Icon
               aria-label="twitter"
               as={SiTwitter}
@@ -41,7 +41,7 @@ export const Nav: React.FC = () => {
             />
           </Link>
 
-          <Link href="https://discord.gg/thirdweb" isExternal>
+          <Link href="https://discord.gg/egiftcard" isExternal>
             <Icon
               aria-label="discord"
               as={SiDiscord}

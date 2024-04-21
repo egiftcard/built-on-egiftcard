@@ -28,7 +28,7 @@ export const projects: ProjectType[] = [
       "Blockchain NFT Italia Aker Pass holders can access to the exclusive Élite group. Holders can undertake a path of education and growth in NFT projects, sharing permanently high-value knowledge in dedicated text and voice chats, with top NFT investors and Blockchain NFT Italia analysts.",
     industry: ["Membership"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0xba0f5dc66852c278c51033ce1e1ddeac27f5f7cb/",
+      "https://egiftcard.cc/ethereum/0xba0f5dc66852c278c51033ce1e1ddeac27f5f7cb/",
   },
   {
     title: "Apecademia",
@@ -65,9 +65,9 @@ export const projects: ProjectType[] = [
   },
   {
     title: "Audiobooks",
-    url: "https://indrajitbnikam.hashnode.dev/audiobooks-an-audible-like-platform-built-with-nextjs-tailwind-and-thirdweb",
+    url: "https://indrajitbnikam.hashnode.dev/audiobooks-an-audible-like-platform-built-with-nextjs-tailwind-and-egiftcard",
     description:
-      "Audiobooks - An Audible like platform built with Next.js, Tailwind and ThirdWeb",
+      "Audiobooks - An Audible like platform built with Next.js, Tailwind and EgiftCard",
   },
   {
     title: "Azito Land Deed",
@@ -236,7 +236,7 @@ export const projects: ProjectType[] = [
     url: "https://www.codeisart.xyz/",
     industry: ["Generative Art"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0xf873581b3c3e840e24c55024e8e9be865f94dc27/",
+      "https://egiftcard.cc/ethereum/0xf873581b3c3e840e24c55024e8e9be865f94dc27/",
   },
   {
     title: "Faucetli",
@@ -275,7 +275,7 @@ export const projects: ProjectType[] = [
       "Massively multiplayer D&D, hosted by the world's greatest game masters.",
     industry: ["Gaming"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x5461cbe7b1042c54ed382d1356d7c4e0b43fa281/",
+      "https://egiftcard.cc/ethereum/0x5461cbe7b1042c54ed382d1356d7c4e0b43fa281/",
   },
   {
     title: "Funky Cups",
@@ -301,7 +301,7 @@ export const projects: ProjectType[] = [
     url: "https://www.genesisblockchain.io/",
     FeaturesUsed: "Collection, Custom Contracts, Marketplace, Token",
     description:
-      "Digital ledger infrastructure provider using advanced thirdweb features:1. White labeled NFT marketplaces as a service2. Custom staking contracts",
+      "Digital ledger infrastructure provider using advanced egiftcard features:1. White labeled NFT marketplaces as a service2. Custom staking contracts",
   },
   {
     title: "GetPrime",
@@ -333,7 +333,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     industry: ["Generative Art"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x8943db33e87ef24fd492452f6b19a56762d9d17b/",
+      "https://egiftcard.cc/ethereum/0x8943db33e87ef24fd492452f6b19a56762d9d17b/",
   },
   {
     title: "Heroic Story",
@@ -385,7 +385,7 @@ export const projects: ProjectType[] = [
       "The Kaitu Masters will enter the metaverse as the explorers of the path and the founding fathers of the pack. With 777 unique NFTs and 100+ traits, Kaitu will take its first step in creating a real project in the NFT-space. A project created by a wise team with great knowledge. With some help and by following the path, we started to create something greater",
     industry: ["Metaverse", "PFP"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/signature-drop/0x6a15e7925951fE01a76FA92b389827Cd3e0e20d9",
+      "https://egiftcard.cc/ethereum/signature-drop/0x6a15e7925951fE01a76FA92b389827Cd3e0e20d9",
   },
   {
     title: "KevinToadz",
@@ -400,7 +400,7 @@ export const projects: ProjectType[] = [
       "Kiwami is a next-generation collective of artists, builders, and rule-breakers. Carefully designed in the metaverse & born in Japan, Kiwami is redefining what it means to be an authentic brand. For those who are Kiwami; extreme, loyal, driven, and ineffable⎯ you've found your people.",
     industry: ["Media/Music/Video", "Metaverse"],
     dashboardURL:
-      "https://thirdweb.com/polygon/0x0ab812cd5f162ad06786ac75bd746e17e5a95552/",
+      "https://egiftcard.cc/polygon/0x0ab812cd5f162ad06786ac75bd746e17e5a95552/",
   },
   {
     title: "La Chatte Pucie",
@@ -424,7 +424,7 @@ export const projects: ProjectType[] = [
       "Layer3 wants to help the world embrace web3 by providing everyone with simple and intuitive ways to experience crypto-native tools.",
     industry: ["Education"],
     dashboardURL:
-      "https://thirdweb.com/polygon/0x200fb6e28edf0fbc9b5fabf7d39ae583981f5038/",
+      "https://egiftcard.cc/polygon/0x200fb6e28edf0fbc9b5fabf7d39ae583981f5038/",
   },
   {
     title: "Livespot",
@@ -441,7 +441,7 @@ export const projects: ProjectType[] = [
       "Cloud Yachts is the first digital yacht dealer to the metaverse. It's somewhat like a token gated approach to attending yacht parties, living on yachts and more.",
     industry: ["Creative Art", "Marketplace", "Metaverse"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x1b72098f022e5cbe971ec118fde5afda81b311ec/",
+      "https://egiftcard.cc/ethereum/0x1b72098f022e5cbe971ec118fde5afda81b311ec/",
   },
   {
     title: "MimeMeNFT",
@@ -452,7 +452,7 @@ export const projects: ProjectType[] = [
     url: "https://mintgate.io/",
     FeaturesUsed: "Collection, Token Gated Access",
     description:
-      "NFT memberships as a service startup that is using embedded thirdweb software components for key features:1. Membership NFT minting2. No-code token gated landing pages",
+      "NFT memberships as a service startup that is using embedded egiftcard software components for key features:1. Membership NFT minting2. No-code token gated landing pages",
   },
   {
     title: "Monument",
@@ -539,7 +539,7 @@ export const projects: ProjectType[] = [
       "NG artworks are a limited collection of 1,111 hand-crafted artworks that encapsulate crypto culture and pay homage to its contributors. The process combines glitch, animation, sculpting and 3D modeling with rigorous curation.",
     industry: ["Creative Art", "Media/Music/Video"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x6e941b9f70bc34bd0083c1088603c3a5b0b2ab17/",
+      "https://egiftcard.cc/ethereum/0x6e941b9f70bc34bd0083c1088603c3a5b0b2ab17/",
   },
   {
     title: "Ninja Animals",
@@ -566,7 +566,7 @@ export const projects: ProjectType[] = [
       "The Ostrich Rookie Card is for the early supporters, adopters, and believers in Ostrich’s mission to improve global financial wellbeing.Ostrich is a FinTech company that has built a financial accountability app for people who need to build a strong financial foundation in order to live a better life.",
     industry: ["Finance"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/nft-drop/0x0D3E33e3aBE863d163aCeca5e56D4158fFE25338",
+      "https://egiftcard.cc/ethereum/nft-drop/0x0D3E33e3aBE863d163aCeca5e56D4158fFE25338",
   },
   {
     title: "OutlawzParrotz",
@@ -585,14 +585,14 @@ export const projects: ProjectType[] = [
       "PA Club's greater goal is to build a vehicle which improves the health and wellbeing of those who are touched by our brand.",
     industry: ["Creative Art", "Health"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x85829bf847f0e9417065a22a1b73b35bbc3dc535/sources",
+      "https://egiftcard.cc/ethereum/0x85829bf847f0e9417065a22a1b73b35bbc3dc535/sources",
   },
   {
     title: "Paper",
     url: "https://paper.xyz/",
     FeaturesUsed: "Marketplace, Multiple NFT Types, Packs",
     description:
-      "Early stage web3 no-code fiat on-boarding platform using multiple thirdweb smart contracts (ERC721, ERC1155, marketplace, packs) as a default smart contract for their customers",
+      "Early stage web3 no-code fiat on-boarding platform using multiple egiftcard smart contracts (ERC721, ERC1155, marketplace, packs) as a default smart contract for their customers",
     industry: ["Finance", "Payments"],
   },
   {
@@ -647,7 +647,7 @@ export const projects: ProjectType[] = [
     description: "Exclusive access to Leonard Combier's work",
     industry: ["Generative Art"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x4a8dc1ecc1d5b7438324e3aa71b978671e4f1fa3/",
+      "https://egiftcard.cc/ethereum/0x4a8dc1ecc1d5b7438324e3aa71b978671e4f1fa3/",
   },
   {
     title: "Reality dApp",
@@ -667,13 +667,13 @@ export const projects: ProjectType[] = [
   {
     title: "Sad As Duck",
     url: "https://nfts.sadderday.com/",
-    FeaturesUsed: "ERC721A, thirdweb Deploy",
+    FeaturesUsed: "ERC721A, egiftcard Deploy",
     Blockchain: "Ethereum",
     description:
       "Sad As Duck is a collection of 3,333 unique NFTS based off of our most popular design, ever.Each NFT is programmatically generated from over 115 possible traits, stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.Owning a Sadderday® NFT comes with both digital & real-world benefits.",
     industry: ["Fashion", "Generative Art", "PFP"],
     dashboardURL:
-      "https://thirdweb.com/dashboard/ethereum/0x4a8d9b27d3562d6b945ab3d361dbb42e51630341/",
+      "https://egiftcard.cc/dashboard/ethereum/0x4a8d9b27d3562d6b945ab3d361dbb42e51630341/",
   },
   {
     title: "Scaredy Cubits Genesis by Misoo x Daz 3D",
@@ -684,7 +684,7 @@ export const projects: ProjectType[] = [
       "Scaredy Cubits are cubical beings lost in our spherical world. They’re easily startled, so we don’t know how to tell them they belong to a collection of 500 NFTs designed by 3D art guru Misoo for the Ethereum blockchain.",
     industry: ["Generative Art"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0xf59a85bbc5395055bff472ea08da0e21ab5aea83/",
+      "https://egiftcard.cc/ethereum/0xf59a85bbc5395055bff472ea08da0e21ab5aea83/",
   },
   {
     title: "Secret Food Society",
@@ -727,7 +727,7 @@ export const projects: ProjectType[] = [
     description: "Advanced generative PFP Smircs",
     industry: ["Generative Art", "PFP"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x15fd0f20218967725e6b34a2881dc260d7e9d860/",
+      "https://egiftcard.cc/ethereum/0x15fd0f20218967725e6b34a2881dc260d7e9d860/",
   },
   {
     title: "Soul Fluffs",
@@ -766,7 +766,7 @@ export const projects: ProjectType[] = [
     description:
       "http://structured.art is an open platform and marketplace to mint, render, and trade HTML artwork, memes, data stores, and other digital artifacts.",
     dashboardURL:
-      "https://thirdweb.com/ethereum/0xe5955643d8153312017ddfb675cdf6f9e5aa8493/",
+      "https://egiftcard.cc/ethereum/0xe5955643d8153312017ddfb675cdf6f9e5aa8493/",
   },
   {
     title: "Summer Girls NFT",
@@ -781,7 +781,7 @@ export const projects: ProjectType[] = [
       "Remarkable virtual craftsmanship meets ostentatious yet familiar design. Ingredients from a different dimension and extravagant hints of fruits suit everyone's palate.",
     industry: ["Metaverse"],
     dashboardURL:
-      "https://thirdweb.com/dashboard/polygon/edition-drop/0x5e3b3449fa71D503075892a2a0799251C2316b2F",
+      "https://egiftcard.cc/dashboard/polygon/edition-drop/0x5e3b3449fa71D503075892a2a0799251C2316b2F",
   },
   {
     title: "Super Star Ollys",
@@ -809,7 +809,7 @@ export const projects: ProjectType[] = [
       "VIP Rewards NFT collection connecting restaurants and their guests! Access to unique web3 dining experiences, while honoring the people who power the Industry.",
     industry: ["Food", "Membership"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0xee7f20f10d57023fe1e5d7d3f84faf76e0f09883/",
+      "https://egiftcard.cc/ethereum/0xee7f20f10d57023fe1e5d7d3f84faf76e0f09883/",
   },
   {
     title: "The Little Lions",
@@ -860,15 +860,15 @@ export const projects: ProjectType[] = [
   },
   {
     title: "ThirdAuth",
-    url: "https://erickruano.com/meet-thirdauth-a-thirdweb-powered-service-to-add-nft-gated-authentication-to-any-app-or-service",
+    url: "https://erickruano.com/meet-thirdauth-a-egiftcard-powered-service-to-add-nft-gated-authentication-to-any-app-or-service",
     description:
-      "A ThirdWeb-powered service to add NFT-Gated authentication to any app or service",
+      "A EgiftCard-powered service to add NFT-Gated authentication to any app or service",
   },
   {
     title: "thirdsnips",
     url: "https://www.thirdsnips.live/",
     description:
-      "stop writing thirdweb snippets|use thirdsnips to make it all snap!|all the code snippets from thirdweb portal, packed in an VSCode extension",
+      "stop writing egiftcard snippets|use thirdsnips to make it all snap!|all the code snippets from egiftcard portal, packed in an VSCode extension",
     industry: ["Dev Tool"],
   },
   {
@@ -890,7 +890,7 @@ export const projects: ProjectType[] = [
       "Our mission is to connect real estate investors, web3 experts, developers, entrepreneurs, and more to create the future of Digital Real Estate (any application of web3 and real estate).",
     industry: ["Education", "Membership"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0x0E32cEE0445413e118b14d02E0409303D338487a/",
+      "https://egiftcard.cc/ethereum/0x0E32cEE0445413e118b14d02E0409303D338487a/",
   },
   {
     title: "Undead Monster Club",
@@ -915,7 +915,7 @@ export const projects: ProjectType[] = [
       "UPUNKS is a generated 10,000 NFT With a unique traitsUPUNKS is an NFT collection INSPIRED by CRYPTOPUNKS based on the POLYGON blockchain.",
     industry: ["Generative Art"],
     dashboardURL:
-      "https://thirdweb.com/polygon/0x545df7517802d042e0308d7190973daca684a596/",
+      "https://egiftcard.cc/polygon/0x545df7517802d042e0308d7190973daca684a596/",
   },
   {
     title: "Vault3",
@@ -957,7 +957,7 @@ export const projects: ProjectType[] = [
       "Featuring real-life benefits, the We Are SG project aims to make NFTs relevant to all kiasus and kaypohs through an ownership experience that captures all there is to know and love about the +65.",
     industry: ["Generative Art", "Media/Music/Video", "Membership"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0xa2d54d463a33ff10956428ef8fa5ba0027401071/",
+      "https://egiftcard.cc/ethereum/0xa2d54d463a33ff10956428ef8fa5ba0027401071/",
   },
   {
     title: "Web3Chat",
@@ -1006,7 +1006,7 @@ export const projects: ProjectType[] = [
       "Large YouTube media brand using NFT’s to launch a new model for both funding and creating community ownership in media projects starting with “Project Iceman” documentary:1. Ticket NFT’s to be used for watching the premier2. VIP NFT’s for exclusive perks3. Selling of clips of the movie to own and get mentioned on movie credits4. Token gated viewing of the documentary online",
     industry: ["Membership"],
     dashboardURL:
-      "https://thirdweb.com/ethereum/0xba9b18c042e95039378f05cc645c67b889b56960/",
+      "https://egiftcard.cc/ethereum/0xba9b18c042e95039378f05cc645c67b889b56960/",
   },
   {
     title: "ZombieManZ Collection",
@@ -1017,6 +1017,6 @@ export const projects: ProjectType[] = [
       "Large YouTube media brand using NFT’s to launch a new model for both funding and creating community ownership in media projects starting with “Project Iceman” documentary:1. Ticket NFT’s to be used for watching the premier2. VIP NFT’s for exclusive perks3. Selling of clips of the movie to own and get mentioned on movie credits4. Token gated viewing of the documentary online",
     industry: ["Creative Art"],
     dashboardURL:
-      "https://thirdweb.com/polygon/0xb83638045cd6f9417e8fdeddd22b1fa0188600d3/",
+      "https://egiftcard.cc/polygon/0xb83638045cd6f9417e8fdeddd22b1fa0188600d3/",
   },
 ];

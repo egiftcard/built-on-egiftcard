@@ -6,7 +6,7 @@ import "../styles/globals.css";
 
 const MyApp = ({ Component, pageProps }: AppProps) => {
   const metadata = {
-    title: "built on thirdweb",
+    title: "built on egiftcard",
     description: "",
     image: "",
   };
@@ -21,12 +21,12 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
             description: metadata.description,
             type: "website",
             locale: "en_US",
-            // url: "https://thirdweb.com",
-            site_name: "built on thirdweb",
+            // url: "https://egiftcard.cc",
+            site_name: "built on egiftcard",
           }}
           twitter={{
-            handle: "@thirdweb",
-            site: "@thirdweb",
+            handle: "@egiftcard",
+            site: "@egiftcard",
             cardType: "summary_large_image",
           }}
           // canonical=""

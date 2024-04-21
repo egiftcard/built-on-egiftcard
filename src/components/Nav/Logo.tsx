@@ -127,7 +127,7 @@ export const Logo: FC<ILogoProps> = ({
           w={[24, 24, 28]}
         />
       )}
-      <VisuallyHidden>thirdweb</VisuallyHidden>
+      <VisuallyHidden>egiftcard</VisuallyHidden>
     </Stack>
   );
 };
